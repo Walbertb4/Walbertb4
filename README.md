@@ -2,7 +2,7 @@
 
 # Batu Ergül
 
-**Information Systems Engineering Student** at Sakarya University  
+**Information Systems Engineering Student** at Sakarya University
 Concurrently pursuing **Management Information Systems** at Istanbul University
 
 I focus on building automation tools and scraping pipelines, working close to the system level. Most of my work involves Python — from terminal UIs to multi-module automation engines.
@@ -11,26 +11,17 @@ I focus on building automation tools and scraping pipelines, working close to th
 
 ## Tech Stack
 
-**Languages**
-`Python` `C++`
-
-**Automation & Scraping**
-`Selenium` `BeautifulSoup` `Playwright`
-
-**System & Networking**
-`ADB & Dynamic IP Rotation` `IMAP/POP3 Mail Integration` `Bot Mitigation Bypass`
-
-**Tools**
-`Git` `CustomTkinter`
+**Languages:** `Python` `C++`
+**Automation & Scraping:** `Selenium` `BeautifulSoup` `Playwright`
+**System & Networking:** `ADB & Dynamic IP Rotation` `IMAP/POP3 Mail Integration` `Bot Mitigation Bypass`
+**Tools:** `Git` `CustomTkinter`
 
 ---
 
 ## Education
 
-| Degree | University | Period |
-|--------|-----------|--------|
-| B.Sc. Information Systems Engineering | Sakarya University | 2025 – 2029 |
-| B.Sc. Management Information Systems | Istanbul University | 2025 – 2029 |
+**Sakarya University** — B.Sc. Information Systems Engineering *(2025 – 2029)*
+**Istanbul University** — B.Sc. Management Information Systems *(2025 – 2029)*
 
 ---
 
