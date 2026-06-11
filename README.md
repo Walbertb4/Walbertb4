@@ -9,7 +9,10 @@ I focus on building automation tools and scraping pipelines, working close to th
 
 ---
 
-## Tech Stack
+## Education & Tech Stack
+
+**Sakarya University** — B.Sc. Information Systems Engineering *(2025 – 2029)*
+**Istanbul University** — B.Sc. Management Information Systems *(2025 – 2029)*
 
 **Languages:** `Python` `C++`
 **Automation & Scraping:** `Selenium` `BeautifulSoup` `Playwright`
@@ -17,15 +20,6 @@ I focus on building automation tools and scraping pipelines, working close to th
 **Tools:** `Git` `CustomTkinter`
 
 ---
-
-## Education
-
-**Sakarya University** — B.Sc. Information Systems Engineering *(2025 – 2029)*
-**Istanbul University** — B.Sc. Management Information Systems *(2025 – 2029)*
-
----
-
-## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Walbertb4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
