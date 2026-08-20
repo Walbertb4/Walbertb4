@@ -19,15 +19,6 @@ I focus on building automation tools and scraping pipelines, working close to th
 **System & Networking:** `ADB & Dynamic IP Rotation` `IMAP/POP3 Mail Integration` `Bot Mitigation Bypass`
 **Tools:** `Git` `CustomTkinter`
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walbertb4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walbertb4&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</div>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-batuergul-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/batuergul)
