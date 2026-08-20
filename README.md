@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="batubanner" src="https://github.com/user-attachments/assets/ee817095-5e39-4029-9b74-218094e6eebd" />
+<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner Kopyası" src="https://github.com/user-attachments/assets/dce9a074-eb8a-4ff9-bddb-de28ead5047e" />
 
 # Batu Ergül
 
